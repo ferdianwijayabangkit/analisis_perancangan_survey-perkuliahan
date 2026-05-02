@@ -1,23 +1,23 @@
-# 📚 Repositori Mata Kuliah Probability and Statistics
+# 📚 Repositori Mata Kuliah Analisis Perancangan Survey
 
-![Mata Kuliah](https://img.shields.io/badge/Mata%20Kuliah-Probability%20and%20Statistics-blue)
+![Mata Kuliah](https://img.shields.io/badge/Mata%20Kuliah-Analisis%20Perancangan%20Survey-blue)
 ![Universitas](https://img.shields.io/badge/Universitas-UNTIRTA-green)
 ![Lisensi](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Aktif-brightgreen)
 
-Pusat sumber daya digital resmi untuk mata kuliah Probability and Statistics di Universitas Sultan Ageng Tirtayasa (UNTIRTA). Repositori ini dirancang untuk menyediakan akses mudah ke materi fundamental teori peluang dan aplikasi statistik dalam penyelesaian masalah keteknikan dan sains.
+Pusat sumber daya digital resmi untuk mata kuliah Analisis Perancangan Survey di Universitas Sultan Ageng Tirtayasa (UNTIRTA). Repositori ini dirancang untuk menyediakan akses mudah ke materi teknik penarikan contoh, desain kuesioner, hingga analisis data hasil survey lapangan.
 
 ## 🔗 **Tautan Referensi Utama**
 
 Akses kumpulan literatur, buku teks, dan materi pendukung lainnya melalui tautan di bawah ini:
 
-**[Buka Kumpulan Ebook & Referensi](https://untirtaacid-my.sharepoint.com/:f:/g/personal/ferdian_bangkit_untirta_ac_id/IgA1HTxKDSNrTL4zbfBwwAOwATdptEx_aGO1eJ9fnYoY5Qo?e=0lbcvs)**
+**[Buka Kumpulan Ebook & Referensi](https://untirtaacid-my.sharepoint.com/:f:/g/personal/ferdian_bangkit_untirta_ac_id/IgBxgSmZBIp2Q6fNWbL_tFHxAVH_ejkOqUkxltXCbcIj2Qs?e=p9Yzs4)**
 
 ## ✨ Isi Repositori
 
-- **Materi Kuliah**: Presentasi dan catatan mengenai konsep Distribusi Peluang, Teorema Bayes, Estimasi Parameter, hingga Pengujian Hipotesis.
-- **Contoh Laporan dan proposal**: Contoh laporan akhir artikel ilmiah dan infografis serta proposal awal penelitian.
-- **Dataset**: Kumpulan data yang digunakan untuk latihan soal dan proyek analisis statistik selama perkuliahan.
+- **Materi Kuliah**: Presentasi mengenai metode sampling (SRS, Stratified, Cluster), teknik wawancara, dan penentuan ukuran sampel.
+- **Proposal dan Laporan**: Contoh proposal awal penelitian, surat jalan, laporan akhir artikel ilmiah dan infografis.
+- **Dataset**: Data sekunder atau hasil survey latihan untuk diolah sebagai studi kasus perkuliahan.
 - **Silabus & RPS**: Panduan rencana pembelajaran selama satu semester.
 
 ## 🔧 Format & Alat Bantu
@@ -30,19 +30,19 @@ Akses kumpulan literatur, buku teks, dan materi pendukung lainnya melalui tautan
 
 ### Prasyarat
 - Koneksi internet yang stabil.
-- Lingkungan pemrograman (seperti RStudio atau Anaconda) untuk menjalankan contoh kode.
+- Lingkungan pemrograman (seperti RStudio atau Anaconda) untuk simulasi sampling.
 - Akun Microsoft institusi untuk mengakses folder SharePoint.
 
 ### Langkah-langkah Penggunaan
 
 1.  **Navigasi Folder**
-    Pilih folder berdasarkan topik pertemuan atau jenis materi (misal: `/materi`, `/praktikum`, atau `/referensi`).
+    Pilih folder berdasarkan topik pertemuan (misal: `/materi`, `/praktikum`, atau `/referensi`).
 
 2.  **Clone atau Unduh**
-    Anda dapat melakukan `git clone` pada repositori ini atau mengunduh file secara individu sesuai kebutuhan belajar.
+    Anda dapat melakukan `git clone` pada repositori ini atau mengunduh file secara individu.
 
 3.  **Pelajari Dokumentasi**
-    Baca file README tambahan di setiap sub-folder untuk instruksi spesifik terkait tugas atau proyek.
+    Baca file README tambahan di setiap sub-folder untuk instruksi spesifik terkait tugas survey.
 
 ## ⚖️ Hak Cipta
 
@@ -55,4 +55,4 @@ Akses kumpulan literatur, buku teks, dan materi pendukung lainnya melalui tautan
 
 ---
 
-> Repositori ini terus diperbarui untuk memastikan relevansi materi dengan perkembangan ilmu statistika dan kebutuhan industri terkini.
+> Repositori ini terus diperbarui untuk memastikan relevansi materi dengan metodologi survey dan perkembangan teknologi pengolahan data terkini.
